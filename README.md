@@ -1,1 +1,2 @@
-# trondo
+  - [Preview](https://grslckr.github.io/trondo/)
+  - [Pull Request](https://github.com/grslckr/trondo/pull/1/files)
